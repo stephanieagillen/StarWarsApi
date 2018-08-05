@@ -1,0 +1,21 @@
+
+
+.info-container {
+	width: 200px;
+	height: 200px;
+	color: #fff;
+	border-color: #fff;
+}
+
+#name,
+p {
+	color: #fff;
+}
+body {
+	background-color:black;
+}
+
+h1 {
+	color: #fff;
+}
+
